@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pulseem": {
+      "type": "http",
+      "url": "https://site.pulseem.co.il/pulsyai/mcp/"
+    }
+  }
+}
