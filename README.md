@@ -25,7 +25,7 @@ Requests you make in Claude that use Pulseem tools are sent to that server, whic
 
 ## Privacy
 
-Data is processed by Pulseem under the Pulseem privacy policy: https://www.pulseem.co.il/privacy-policy
+Data is processed by Pulseem under the Pulseem privacy policy: https://site.pulseem.com/privacy-policy/
 
 ## Support
 
